@@ -6,6 +6,7 @@ To do this we will carry out a series of steps:
 Which we will explain below.
 ## Getting Started
 1.We will extract a csv file from kaggle.
+
 2.We have saved it in this folder:
 ```
 $ https://github.com/Paulcorreafl/project_final/tree/main/data
