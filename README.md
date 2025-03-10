@@ -27,7 +27,7 @@ $ https://github.com/Paulcorreafl/project_final/tree/main/notebook
 $ https://github.com/Paulcorreafl/project_final/tree/main/csv_clean
 ```
 
-4. We proceed to make the application, we will do this in a PowerBI.
+4.We proceed to make the application, we will do this in a PowerBI.
 
 ```
 $ https://github.com/Paulcorreafl/project_final/blob/main/project_flinished.pbix
